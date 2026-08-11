@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_26_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人葵会　介護医療院おおみや葵の郷【短期入所療養介護（介護医療院）】京都府京都市北区紫竹北大門町56", "url": "https://www.kaigokensaku.mhlw.go.jp/26/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=26B0100012-00&ServiceCd=551&Type=search", "url2": "http://kita-hp.aoikai.net/" }, "geometry": { "type": "Point", "coordinates": [ 135.744999799999988, 35.053395 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人稲門会介護医療院レモンの木【短期入所療養介護（介護医療院）】京都府京都市左京区岩倉上蔵町101", "url": "https://www.kaigokensaku.mhlw.go.jp/26/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=26B0600011-00&ServiceCd=551&Type=search", "url2": "www.toumonkai.net" }, "geometry": { "type": "Point", "coordinates": [ 135.7826589, 35.0786299 ] } },
+{ "type": "Feature", "properties": { "内容": "公益社団法人信和会　介護医療院茶山のさと【短期入所療養介護（介護医療院）】京都府京都市左京区田中上大久保町15番地", "url": "https://www.kaigokensaku.mhlw.go.jp/26/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=26B0600029-00&ServiceCd=551&Type=search", "url2": "https://shinwakai-min.com/cyayamanosato" }, "geometry": { "type": "Point", "coordinates": [ 135.7821544, 35.0381677 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人　栄仁会　宇治おうばく病院　介護医療院【短期入所療養介護（介護医療院）】京都府宇治市五ケ庄三番割32-1", "url": "https://www.kaigokensaku.mhlw.go.jp/26/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=26B1200019-00&ServiceCd=551&Type=search", "url2": "http://www.eijinkai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.8105223, 34.9139071 ] } }
+]
+}

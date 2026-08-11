@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_26_指定療養通所介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "療養通所介護事業所HARU【指定療養通所介護】壬生相合町18-9ウィズ高辻通1階", "url": "https://www.kaigokensaku.mhlw.go.jp/26/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2690300161-00&ServiceCd=&Type=search", "url2": "https://hg-cc-haru.com" }, "geometry": { "type": "Point", "coordinates": [ 135.7457832, 35.0003215 ] } }
+]
+}

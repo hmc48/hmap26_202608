@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_26_地域密着型特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウスとだ【地域密着型特定施設入居者生活介護（軽費老人ホーム）】福知山市字戸田１１５６番地", "url": "https://www.kaigokensaku.mhlw.go.jp/26/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2692600220-00&ServiceCd=362&Type=search", "url2": "http://www.mitsumi.or.jp/chtoda/" }, "geometry": { "type": "Point", "coordinates": [ 135.1726946, 35.3061028 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　グリーンパーク愛宕【地域密着型特定施設入居者生活介護（軽費老人ホーム）】京都府舞鶴市愛宕浜町3-5", "url": "https://www.kaigokensaku.mhlw.go.jp/26/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2692700079-00&ServiceCd=362&Type=search", "url2": "http://www.hakuaien.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.405017899999962, 35.4794661 ] } }
+]
+}
